@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [Github link lol Check it out.](Github link lol Check it out.)
+- 👨‍💻 All of my projects are available at You have opened my github profile please check it in the repos I know it's basic stuff what do I say I am still a learner ! 
 
-- 📝 I regulary write articles on [No blog as of now will create later :)](No blog as of now will create later :))
+- 📝 I regulary write articles on No blog as of now will create later :)
 
 - 💬 Ask me about **Anything related to CS topics!!!**
 
