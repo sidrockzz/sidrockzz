@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Siddharth Datthathreya
 
 <!--
-**sidrockzz/sidrockzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sidrockzz/sidrockzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... My LinkedIn Account : <a href="https://www.linkedin.com/in/siddharthdatthathreya/">LinkedIn</a>
 - 😄 Pronouns: ... JS C++ Python
 - ⚡ Fun fact: ... I like to work on Science related Projects Especially on Quantum Computing
--->
+
