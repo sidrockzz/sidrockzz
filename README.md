@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidrockzz" alt="sidrockzz" /> </p>
 
-- 🔭 I’m currently working on [GCGC](https://github.com/sidrockzz/Admin)
+- 🔭 I’m currently working in [Morgan Stanley](https://www.morganstanley.com/)
 
 - 🌱 I’m currently learning **Astronomy and Psychology**
 
